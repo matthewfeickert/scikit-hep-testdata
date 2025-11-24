@@ -77,7 +77,7 @@ You can also use any of the following to access the above CLI without installing
 
 * uv:
 
-```
+```bash
 uvx scikit-hep-testdata
 ```
 
