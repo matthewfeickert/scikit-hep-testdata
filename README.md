@@ -20,7 +20,7 @@ get larger files from common open-access data repositories.
 ## Installing and usage
 To install:
 
-```bash
+```shell
 python -m pip install scikit-hep-testdata
 ```
 
@@ -83,13 +83,13 @@ uvx scikit-hep-testdata
 
 * pipx:
 
-```
+```shell
 pipx run scikit-hep-testdata
 ```
 
 * Pixi:
 
-```
+```console
 pixi exec scikit-hep-testdata
 ```
 
